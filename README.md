@@ -41,10 +41,6 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeiiin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=d8a534)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taeiiin&theme=radical&hide_border=true&background=0D1117&ring=d8a534&fire=d36732&currStreakLabel=d8a534)](https://git.io/streak-stats)
-
-  [![Taein's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taeiiin&theme=react-dark&bg_color=0D1117&color=d8a534&line=d36732&point=d8a534&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 </div>
 
 ---
